@@ -1,0 +1,79 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+
+
+.wrapper{
+	overflow: hidden;
+}
+
+.content{
+	width: 60%;
+	min-height: 150px;
+	background-color: DeepSkyBlue;
+	float: left;
+
+	color: white;
+	text-align: center;
+}
+
+.blog{
+
+	width: 40%;
+	min-height: 150px;
+	background-color: lightseagreen;
+	float: right;
+
+	color: white;
+	text-align: center;
+}
+
+
+.container{
+	overflow: hidden;
+}
+
+.single{
+	min-height: 100px;
+	border: 30px solid darkblue;
+	width: 29.44%;
+
+	color: white;
+	text-align: center;
+}
+
+.dodgerblue{
+	background-color: dodgerblue;
+	float: left;
+
+	color: white;
+	text-align: center;
+}
+
+.orange{
+	background-color: orange;
+	float: left;
+
+	color: white;
+	text-align: center;
+
+}
+
+.lightblue{
+	background-color: darkmagenta ;
+	float: left;
+
+	color: white;
+	text-align: center;
+}
+
+.footer{
+	min-height: 50px;
+	background-color: darkgreen;
+	
+	color: white;
+	text-align: center;
+}
